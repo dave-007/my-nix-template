@@ -1,6 +1,6 @@
 
 # escape=`
-FROM microsoft/powershell:latest
+FROM mcr.microsoft.com/azure-cloudshell:latest
 # refer https://github.com/PowerShell/PowerShell-Docker/issues/394
 
 SHELL ["/usr/bin/pwsh", "-c"]
