@@ -1,5 +1,4 @@
 
-# escape=`
 FROM mcr.microsoft.com/azure-cloudshell:latest
 # refer https://github.com/PowerShell/PowerShell-Docker/issues/394
 
